@@ -1,0 +1,16 @@
+{
+"name":"Lajos",
+"city":"Tokaj",
+"street":"Báróhirs",
+"houseNumber":2,
+"phoneNumber":6305555555,
+"email":"baroLajos@gmail.com",
+"margherita":2,
+"formaggi":3,
+"salami":1,
+"tuna":1,
+"hawaii":3,
+"ham":2,
+"chef":0,
+"date":"2020"
+}

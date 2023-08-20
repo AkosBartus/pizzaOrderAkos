@@ -1,0 +1,16 @@
+{
+    "pizza1": 0,
+    "pizza2": 0,
+    "pizza3": 0,
+    "pizza4": 0,
+    "pizza5": 0,
+    "pizza6": 0,
+    "pizza7": 0,
+    "name" : "",
+    "email" : "",
+    "phoneNumber" : "",
+    "houseNumber" : "",
+    "city": "",
+    "zipCode": "",
+    "street": ""
+}
