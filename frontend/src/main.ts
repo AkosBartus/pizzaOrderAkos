@@ -85,6 +85,7 @@ class Carousel {
   }
   
   private prevSlide() {
+
     this.currentIndex = (this.currentIndex - 1 + this.items.length) % this.items.length;
     this.render();
   }
@@ -160,7 +161,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         if (pizzaAmount > 0) {
           orderDetails.pizzas[pizzaName] = pizzaAmount;
-
+c
           const pizzaItem = document.createElement("div");
           pizzaItem.classList.add("pizza-item");
           pizzaItem.textContent = `${pizzaName}: ${pizzaAmount}`;
@@ -171,13 +172,3 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 });
-
-
-
-
-
-
-
-
-
-
